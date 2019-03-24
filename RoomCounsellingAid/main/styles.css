@@ -1,0 +1,62 @@
+@import url(font.css);
+.login_form {
+ right: 40px !important;
+ border: 1px solid #AAA;
+ padding:10px;
+    height: 100%;
+}
+
+h3 {margin-top:5px;margin-right:5px;color:#FFFFFF;font-size:20px;}
+
+	
+.chat_main {
+
+	 border:1px solid #AAA;
+ -moz-box-shadow:0 0 10px #ccc;
+ -webkit-box-shadow: 0 0 10px #ccc;
+ width:350px;
+ padding:10px;
+ background:#4B0082	;
+}
+
+.message {
+ border:1px solid #AAA;
+ margin:4px;
+ padding:5px;
+ -moz-border-radius:7px;
+ -webkit-border-radius:7px;
+ background:#ffffff;
+font-family:'Roboto';
+   
+}
+
+.textf {
+-moz-box-shadow:0 0 10px #CCCCCC;
+-webkit-box-shadow:0 0 10px #CCCCCC;
+border:1px solid #CCCCCC;
+height:40px;
+font-weight:Italics;
+}
+
+.submit {
+
+-moz-border-radius:7px;
+-webkit-border-radius:7px;
+background:#696969;
+border:1px solid #CCCCCC;
+font-size:16px;
+font-weight:bold;
+font-family:TimesNewRoman
+height:35px;
+margin-left:10px;
+padding:5px;
+}
+.message span {
+ font-size:10px;
+ color:#888;
+ margin-left:10px;
+}
+
+.submit_form {
+ margin:10px 0px;
+}

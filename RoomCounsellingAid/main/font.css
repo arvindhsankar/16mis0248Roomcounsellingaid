@@ -1,0 +1,61 @@
+
+@font-face {
+    font-family: 'dekers_bolddekers_bold';
+    src: url('../fonts/dekers-webfont.eot');
+    src: url('../fonts/dekers-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/dekers-webfont.woff') format('woff'),
+         url('../fonts/dekers-webfont.ttf') format('truetype'),
+         url('../fonts/dekers-webfont.svg#dekers_bolddekers_bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'baskerville_old_faceregular';
+    src: url('../fonts/baskvill-webfont.eot');
+    src: url('../fonts/baskvill-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/baskvill-webfont.woff') format('woff'),
+         url('../fonts/baskvill-webfont.ttf') format('truetype'),
+         url('../fonts/baskvill-webfont.svg#baskerville_old_faceregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'centuryschoolbookbold';
+    src: url('../fonts/centuryschoolbook-bold-webfont.eot');
+    src: url('../fonts/centuryschoolbook-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/centuryschoolbook-bold-webfont.woff') format('woff'),
+         url('../fonts/centuryschoolbook-bold-webfont.ttf') format('truetype'),
+         url('../fonts/centuryschoolbook-bold-webfont.svg#centuryschoolbookbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+  font-family: 'Share Tech Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Share Tech Mono'), local('ShareTechMono-Regular'), url(http://themes.googleusercontent.com/static/fonts/sharetechmono/v2/RQxK-3RA0Lnf3gnnnNrAsUYuTAAIFFn5GTWtryCmBQ4.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto Regular'), local('Roboto-Regular'), url(http://themes.googleusercontent.com/static/fonts/roboto/v10/2UX7WLTfW3W8TclTUvlFyQ.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Roboto Bold'), local('Roboto-Bold'), url(http://themes.googleusercontent.com/static/fonts/roboto/v10/d-6IYplOFocCacKzxwXSOD8E0i7KZn-EPnyo3HZu7kw.woff) format('woff');
+}
+@font-face {
+  font-family: 'Joti One';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Joti One'), local('JotiOne-Regular'), url(http://themes.googleusercontent.com/static/fonts/jotione/v2/LVl1n76aEips1R1baeB3RPesZW2xOQ-xsNqO47m55DA.woff) format('woff');
+}
+
+
